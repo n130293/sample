@@ -27,5 +27,7 @@ commit means -that commit your code to your local version control
  database
 push 
 
-git difftool
+git difftool --> shows difference your local changes and previous version of the file
+
+
 
