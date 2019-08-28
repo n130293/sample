@@ -1,0 +1,31 @@
+***********git hub commands**************
+cd ~
+cd Desktop
+git clone https://github.com/n130293/Testing.git
+
+cd Testing
+
+git status  which are in github files
+
+git add . 
+
+git commit -m "Initial commit"
+
+git push -u origin master
+
+-----------------------
+git add app/ config/
+-----------------------
+README*********
+
+git clone https://github.com/n130293/sample.git
+ls
+cd sample
+git status
+git log  which are commited to show
+commit means -that commit your code to your local version control
+ database
+push 
+
+git difftool
+
